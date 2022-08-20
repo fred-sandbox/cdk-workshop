@@ -15,8 +15,5 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `cdk synth`       emits the synthesized CloudFormation template
 
 ---
-### References: 
+### Reference:
 - [aws tutorial](https://cdkworkshop.com/20-typescript/20-create-project/100-cdk-init.html)
-
-### Notes: 
-- `cdk deploy -hotswap` command (use in dev only)
