@@ -16,4 +16,4 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ---
 ### Reference:
-- [aws tutorial](https://cdkworkshop.com/20-typescript/20-create-project/100-cdk-init.html)
+- [aws cdk tutorial](https://cdkworkshop.com/20-typescript/20-create-project/100-cdk-init.html)
